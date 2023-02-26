@@ -1,5 +1,10 @@
 # Compiled class file
 *.class
+*.metadata
+*.idea
+*.setting
+*.prefs
+*/target
 
 # Log file
 *.log
